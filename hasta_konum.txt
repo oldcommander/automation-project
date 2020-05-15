@@ -1,0 +1,10 @@
+şilan buhan
+1- {yaş=19, doğum yeri=antalya, baba adı=hüseyin}
+2- {konum bilgisi= nöroloji polikliniği 6.kat no=655 yatak no=2}
+aslıhan aslan
+1- {yaş=25, doğum yeri=malatya, baba adı=rıza}
+2- {konum bilgisi= odyoloji polikliniği 3.kat no=320 yatak no=1}
+ahmet çekin 
+1- {yaş=20, doğum yeri=malatya, baba adı=hüseyin}
+2- {konum bilgisi= dahiliye polikliniği 8.kat no=833 yatak no=1}
+ 
